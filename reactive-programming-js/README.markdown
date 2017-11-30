@@ -1,11 +1,13 @@
 # Progración reactiva en JavaScript
 
 ¿Qué falta en JavaScript para completar el siguiente cuadrante? Para elementos
-únicos y de forma síncrona, tenemos las llamadas a los métodos. Para múltiples
-elementos de forma síncrona, tenemos los arrays. Para elementos únicos, pero
-asíncronos, las promesas (`Promise`).
+únicos y de forma síncrona, tenemos las variables y las llamadas a los métodos.
+Para múltiples elementos de forma síncrona, tenemos los arrays. Para elementos
+únicos, pero asíncronos, las promesas (`Promise`).
 
 **imagen del cuadrante en cuestión**
+
+<!-- more -->
 
 Existe una herramienta o paradigma (la verdad es que no sé muy bien cómo
 llamarlo) que está cobrando fuerza y popularidad últimamente, sobretodo por su
