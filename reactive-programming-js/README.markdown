@@ -5,7 +5,7 @@
 Para múltiples elementos de forma síncrona, tenemos los arrays. Para elementos
 únicos, pero asíncronos, las promesas (`Promise`).
 
-**imagen del cuadrante en cuestión**
+{% img center /images/2017/cuadrante-reactivex.png %}
 
 <!-- more -->
 
