@@ -33,7 +33,8 @@ ella podríamos destacar las siguientes cualidades:
 1. Favorece la composición
 2. Es flexible, permite trabajar con 1 elemento, varios o infinitos
 3. Es funcional, nos permite aplicar funciones puras a los flujos de datos
-4. Facilita la concurrencia (**:::** *better code, pág ppal*)
+4. Facilita la concurrencia, `Observable`s y `Scheduler`s nos permiten dejar
+a un lado temas de concurrencia, sincronización e hilos
 
 Como ha quedado un artículo muy teórico, veamos cómo podemos crear y consumir
 nuestro primer `Observable`. En los siguientes artículos explicaremos cada una
@@ -52,7 +53,7 @@ index: 3
 */
 ```
 
-Este código y más, está disponible en el repositorio de GitHub:
+Este código y más, está disponible en el repositorio de GitHub
 [reactive-programming-rxjs].
 
 En el próximo artículo veremos en detalle cómo crear un flujo observable a
@@ -62,4 +63,3 @@ partir de un array y de cómo se compararía con un array síncrono.
 [ReactiveX]: http://reactivex.io/
 [patrón Observer]: http://en.wikipedia.org/wiki/Observer_pattern
 [reactive-programming-rxjs]: https://github.com/rchavarria/reactive-programming-rxjs
-
