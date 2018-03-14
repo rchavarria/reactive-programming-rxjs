@@ -6,8 +6,8 @@ Está dividido en varios *capítulos* que serán publicados como artículos en [
 
 ## Capítulos
 
-1. [Programacion reactiva en JavaScript](reactive-programming-js)
-2. Creación de `Observable`s y `Observer`s
+1. [Programacion reactiva en JavaScript](01-reactive-programming-js)
+2. [Comparación entre `Array` y `Observable`](02-arrays-vs-observables)
 3. Creación de `Observable`s asíncronos
 4. Flujos observables de eventos
 5. Flujos observables en llamadas HTTP
